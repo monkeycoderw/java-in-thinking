@@ -1,7 +1,5 @@
 package generics;
 
-import sun.nio.cs.Surrogate;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

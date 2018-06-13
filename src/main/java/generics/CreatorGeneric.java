@@ -22,7 +22,6 @@ class Creator extends GenericWithCreate<X> {
 }
 
 public class CreatorGeneric {
-
   public static void main(String[] args) {
     Creator creator = new Creator();
     creator.f();
