@@ -28,7 +28,7 @@ public class AppParse {
 
   public static void main(String[] args) {
     try {
-      String filePath = "C:\\Users\\zhongwei\\Downloads\\test07.apk";
+      String filePath = "C:\\Users\\zhongwei\\Downloads\\9c8021a0a2c54d0aa2e2350dc7e4cc5d.apk";
       String iconPath = "C:\\Users\\zhongwei\\Downloads\\";
       File file = new File(filePath);
       System.out.println("filePath:" + file.getAbsolutePath());
