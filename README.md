@@ -1,1 +1,1 @@
-javaInThinking
+java.in.thinking
